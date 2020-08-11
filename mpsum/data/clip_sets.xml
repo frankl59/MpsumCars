@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+  
+    <!-- MINI GAME HAMMER-->    
+    <Item type="fwClipSet" key="clipset@anim_heist@arcade@strength@male">
+      <fallbackId />
+      <clipDictionaryName>anim_heist@arcade@strength@male@</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item> 
+    <Item type="fwClipSet" key="clipset@anim_heist@arcade@strength@female">
+      <fallbackId />
+      <clipDictionaryName>anim_heist@arcade@strength@female@</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>  
+	
+    <!-- VEHICLES -->
+
+    <!-- YOSEMITE3 -->
+    <Item type="fwClipSet" key="drive_by@yosemite3_ds">
+    <fallbackId>drive_by@van_ds</fallbackId>
+      <clipDictionaryName>veh@drivebytight_van@ds</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	
+	<!-- SEMINOLE2 -->
+	<Item type="fwClipSet" key="anim@veh@van@seminole2@ds@enter_exit">
+      <fallbackId>anim@veh@van@btype2@ds@enter_exit</fallbackId>
+      <clipDictionaryName>veh@std@ds@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="jump_out" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="anim@veh@van@seminole2@ps@enter_exit">
+      <fallbackId>anim@veh@van@btype2@ps@enter_exit</fallbackId>
+      <clipDictionaryName>veh@std@ps@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="jump_out" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	
+	<Item type="fwClipSet" key="drive_by@van_ds@seminole2">
+      <fallbackId>drive_by@van_ds</fallbackId>
+      <clipDictionaryName>veh@drivebytight_van@ds</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="drive_by@van_ps@seminole2">
+      <fallbackId>drive_by@van_ps</fallbackId>
+      <clipDictionaryName>veh@drivebytight_van@ps</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="drive_by@van_ds_grenades@seminole2">
+      <fallbackId>drive_by@van_ds</fallbackId>
+      <clipDictionaryName>veh@drivebyvanriot@_ds_grenades</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="drive_by@van_ps_grenades@seminole2">
+      <fallbackId>drive_by@van_ps</fallbackId>
+      <clipDictionaryName>veh@drivebyvanriot@_ps_grenades</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	
+  </clipSets>
+
+  <clipDictionaryMetadatas>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>
